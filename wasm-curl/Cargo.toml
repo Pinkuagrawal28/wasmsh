@@ -1,0 +1,9 @@
+[package]
+name = "wasm-curl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = "0.12.4"
+anyhow = "1.0"
+tokio = { version = "1", features = ["macros", "rt-multi-thread"] }

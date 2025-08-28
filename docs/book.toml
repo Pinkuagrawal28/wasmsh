@@ -1,0 +1,7 @@
+[book]
+title = "wasmsh Documentation"
+authors = ["wasmsh contributors"]
+description = "The official documentation for wasmsh, a tiny shell for running sandboxed WASM command-line tools."
+language = "en"
+multilingual = false
+src = "src"

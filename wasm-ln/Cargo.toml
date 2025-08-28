@@ -1,0 +1,8 @@
+[package]
+name = "wasm-ln"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+pico-args = "0.5"

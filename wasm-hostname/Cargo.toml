@@ -1,0 +1,9 @@
+[package]
+name = "wasm-hostname"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.0", features = ["derive"] }
+gethostname = "0.2.3"
